@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ajay/gamepad/main.cxx" "/home/ajay/gamepad/CMakeFiles/i3-gamepad.dir/main.cxx.o"
+  "/home/ajay/gamepad/main.cxx" "/home/ajay/gamepad/build/CMakeFiles/i3-gamepad.dir/main.cxx.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
