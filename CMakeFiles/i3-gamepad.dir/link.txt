@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/i3-gamepad.dir/main.cxx.o -o i3-gamepad  /usr/lib/libxdo.so 

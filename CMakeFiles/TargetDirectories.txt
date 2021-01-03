@@ -1,0 +1,3 @@
+/home/ajay/gamepad/CMakeFiles/edit_cache.dir
+/home/ajay/gamepad/CMakeFiles/rebuild_cache.dir
+/home/ajay/gamepad/CMakeFiles/i3-gamepad.dir
